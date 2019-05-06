@@ -1,5 +1,5 @@
 name := "sbt-github-release"
-organization := "com.miodx.common"
+organization := "com.miodx.sbt.plugins"
 version      := "0.4.0"
 description := "sbt plugin using github releases api"
 
